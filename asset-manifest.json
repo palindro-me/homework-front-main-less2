@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/homework-front-main-less2/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/homework-front-main-less2/static/js/main.65f0f041.js",
-    "static/js/787.177e23c2.chunk.js": "/github.io/homework-front-main-less2/static/js/787.177e23c2.chunk.js",
-    "index.html": "/github.io/homework-front-main-less2/index.html",
-    "main.073c9b0a.css.map": "/github.io/homework-front-main-less2/static/css/main.073c9b0a.css.map",
-    "main.65f0f041.js.map": "/github.io/homework-front-main-less2/static/js/main.65f0f041.js.map",
-    "787.177e23c2.chunk.js.map": "/github.io/homework-front-main-less2/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/homework-front-main-less2/static/css/main.073c9b0a.css",
+    "main.js": "/homework-front-main-less2/static/js/main.addb7bae.js",
+    "static/js/787.177e23c2.chunk.js": "/homework-front-main-less2/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homework-front-main-less2/index.html",
+    "main.073c9b0a.css.map": "/homework-front-main-less2/static/css/main.073c9b0a.css.map",
+    "main.addb7bae.js.map": "/homework-front-main-less2/static/js/main.addb7bae.js.map",
+    "787.177e23c2.chunk.js.map": "/homework-front-main-less2/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.65f0f041.js"
+    "static/js/main.addb7bae.js"
   ]
 }
